@@ -1,25 +1,34 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"         rel="stylesheet">
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1 align="center">
-                <b>Hello everyone, my name is Miguel! 💻 </b>
-                <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-        </div>
-        <div class="bio">
-            <h2><b>About me</b><img src="268-avatar-man-unscreen.gif" width="80" height="80"></h2>
-            <p>Hello everyone, my name is Miguel, I'm a student of Software Analysis and Development 
-            </p>
-        </div>
-    </div>
-</body>
-</html>
+# Hello everyone, My name is Miguel 👋
+
+Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [Tecnologías o Lenguajes Principales] y disfruto trabajando en proyectos de [Intereses Específicos, como Machine Learning, Desarrollo Web, etc.].
+
+## 🚀 Habilidades
+
+- **Lenguajes**: Python, JavaScript, Java, C++
+- **Frameworks**: React, Node.js, Django
+- **Herramientas**: Git, Docker, Kubernetes
+- **Otros**: Linux, CI/CD, AWS
+
+## 🌟 Proyectos Destacados
+
+### [Proyecto 1](https://github.com/tu-usuario/proyecto1)
+Descripción breve del proyecto. Qué hace y por qué es interesante.
+
+### [Proyecto 2](https://github.com/tu-usuario/proyecto2)
+Descripción breve del proyecto. Qué hace y por qué es interesante.
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+## 📝 Últimos Artículos del Blog
+
+- [Título del Artículo 1](https://tu-blog.com/articulo1)
+- [Título del Artículo 2](https://tu-blog.com/articulo2)
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+- [Twitter](https://twitter.com/tu-usuario)
+- [Correo](mailto:tu-email@example.com)
 
