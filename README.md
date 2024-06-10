@@ -19,10 +19,10 @@ I'm Software Analysis and Development Student 💻 and I'm 18 years old.
 
 ## 🌟 Featured Projects
 
-### [Project 1](https://github.com/Miguelml1219/Small-Calculator)
+### [Calculator](https://github.com/Miguelml1219/Small-Calculator)
 
 
-### [Project 2](https://github.com/tu-usuario/proyecto2)
+### [Points of a Cartesian Plane](https://github.com/Miguelml1219/WorkShops-Python)
 
 ## 📫 Contact
 
