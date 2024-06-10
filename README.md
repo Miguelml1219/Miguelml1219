@@ -1,34 +1,31 @@
-# Hello everyone, My name is Miguel 👋
+# Hello everybody, My name is Miguel 👋
 
-Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [Tecnologías o Lenguajes Principales] y disfruto trabajando en proyectos de [Intereses Específicos, como Machine Learning, Desarrollo Web, etc.].
 
-## 🚀 Habilidades
+I'm Software Analysis and Development Student 💻 and I'm 18 years old. 
 
-- **Lenguajes**: Python, JavaScript, Java, C++
-- **Frameworks**: React, Node.js, Django
-- **Herramientas**: Git, Docker, Kubernetes
-- **Otros**: Linux, CI/CD, AWS
 
-## 🌟 Proyectos Destacados
+## 💼 Skills
 
-### [Proyecto 1](https://github.com/tu-usuario/proyecto1)
-Descripción breve del proyecto. Qué hace y por qué es interesante.
+- **Communication**: Excellent oral and written communication skills.
+- **Teamwork**: Proven ability to work effectively in a team.
+- **Time Management**: Ability to manage time effectively and meet deadlines.
 
-### [Proyecto 2](https://github.com/tu-usuario/proyecto2)
-Descripción breve del proyecto. Qué hace y por qué es interesante.
 
-## 📈 Estadísticas de GitHub
+## 🚀 Technologies
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+- **Languages**: Python (Basic), JavaScript (Basic), Java (Basic)
+- **Web Technologies**: HTML (Intermediate), CSS (intermediate)
 
-## 📝 Últimos Artículos del Blog
 
-- [Título del Artículo 1](https://tu-blog.com/articulo1)
-- [Título del Artículo 2](https://tu-blog.com/articulo2)
+## 🌟 Featured Projects
 
-## 📫 Contacto
+### [Project 1](https://github.com/tu-usuario/proyecto1)
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Correo](mailto:tu-email@example.com)
+
+### [Project 2](https://github.com/tu-usuario/proyecto2)
+
+## 📫 Contact
+
+- [LinkedIn]()
+- [Email](miguel.medina1111@soy.sena.edu.co)
 
