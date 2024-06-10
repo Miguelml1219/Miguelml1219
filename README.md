@@ -19,7 +19,7 @@ I'm Software Analysis and Development Student 💻 and I'm 18 years old.
 
 ## 🌟 Featured Projects
 
-### [Project 1](https://github.com/tu-usuario/proyecto1)
+### [Project 1](https://github.com/Miguelml1219/Examples-Java)
 
 
 ### [Project 2](https://github.com/tu-usuario/proyecto2)
