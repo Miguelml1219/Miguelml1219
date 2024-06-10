@@ -26,6 +26,6 @@ I'm Software Analysis and Development Student 💻 and I'm 18 years old.
 
 ## 📫 Contact
 
-- [LinkedIn]()
+- [LinkedIn](www.linkedin.com/in/miguel-medina-ladino-087a35312)
 - [Email](miguel.medina1111@soy.sena.edu.co)
 
