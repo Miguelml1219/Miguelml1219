@@ -1,7 +1,7 @@
 # Hello everybody, My name is Miguel 👋
 
 
-Currently, I'm a Software Analysis and Development Student 💻 at SENA. I'm interested in exploring how software development works, from coding to system analysis. At the age of 18, I'm eager to immerse myself in this dynamic field and gain hands-on experience in building innovative solutions. My journey in software development has been fueled by my curiosity and drive to learn, and I'm excited to continue honing my skills and contributing to impactful projects.
+Currently, I'm a Software Analysis and Development Student 💻 at SENA. I'm interested in exploring how software development works, from coding to system analysis. I'm eager to immerse myself in this dynamic field and gain hands-on experience in building innovative solutions. My journey in software development has been fueled by my curiosity and drive to learn, and I'm excited to continue honing my skills and contributing to impactful projects.
 
 ## 💡 Skills
 
